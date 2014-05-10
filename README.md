@@ -1,2 +1,2 @@
-Power-Eletctronic-lib
+Power-Electronics-lib
 =====================
